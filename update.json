@@ -1,7 +1,7 @@
 {
   "versionCode": 13,
   "versionName": "1.3.0-beta-22",
-  "updateUrl": "https://github.com/majordevss/builds/blob/main/apk/builds/app-beta-release-unsigned.apk",
+  "updateUrl": "https://raw.githubusercontent.com/majordevss/builds/main/apkbuilds/app-beta-release-unsigned.apk",
   "mandatoryUpdate": false,
   "updateMessage": "A new beta version is available. Update to test the latest features!",
   "releaseNotes": "1. Early access to new features.\\n2. Beta version may contain bugs.",
