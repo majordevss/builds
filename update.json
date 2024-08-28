@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.3.0-beta-24",
+  "versionCode": 18,
+  "versionName": "1.3.0-beta-25",
   "updateUrl": "https://raw.githubusercontent.com/majordevss/builds/main/apk/builds/app-beta-release-unsigned.apk",
   "mandatoryUpdate": false,
   "updateMessage": "A new beta version is available. Update to test the latest features!",
